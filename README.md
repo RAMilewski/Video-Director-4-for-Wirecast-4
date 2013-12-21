@@ -9,4 +9,4 @@ The functionality of Video Director 4 is limited by the very restricted subset o
 
 This version of Video Director 4 is not intended to be used with Wirecast 5.
 
-Download the zip archive, unzip and place the Video Director 4 folder in the Documents folder of your wirecast machine.  VideoDirector4/docs/index.html contains complete configuration and operation instructions.
+Download the zip archive, unzip and place the VideoDirector4 folder in the Documents folder of your wirecast machine.  VideoDirector4/docs/index.html contains complete configuration and operation instructions.
